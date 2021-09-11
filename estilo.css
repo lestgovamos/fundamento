@@ -1,0 +1,16 @@
+h1{color: green ;
+    font-family: cursive
+;
+}
+#titulo{
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.negrilla{
+    font-weight: bold;
+    font-size: 2rem;
+}
+#cabecera{
+    background-color: red;
+}
+
